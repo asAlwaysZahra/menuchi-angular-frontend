@@ -44,25 +44,42 @@ Here is some of app pages screenshots.
 
 ### Dashboard
 
-![Dashboard Screenshot](assets/screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Dashboard%20Screenshot.jpg)
 
 ---
 
 ### Item Management
 
-![Item Management Screenshot](assets/screenshots/items.png)
+![Item Management Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Item%20Management%20Screenshot.jpg)
+![Backlog Management Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Backlog%20Screenshot.jpg)
+
 
 ---
 
 ### Menu Creation
 
-![Menu Creation Screenshot](assets/screenshots/menu-creation.png)
+![Menu Creation Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Menu%20Creation1%20Screenshot.jpg)
+![Menu Creation Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Menu%20Creation2%20Screenshot.jpg)
 
 ---
 
-### Public Menu Viewer
+### Menu Preview
 
-![Public Menu Screenshot](assets/screenshots/public-menu.png)
+![Public Menu Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Menu%20Preview%20Screenshot.jpg)
+
+---
+
+### Login, Signup and OTP Verification
+
+![Login Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Login%20Screenshot.jpg)
+![Signup Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Signup%20Screenshot.jpg)
+![OTP Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/OTP%20Screenshot.jpg)
+
+---
+
+### Created Menus
+
+![Menus Screenshot](https://github.com/asAlwaysZahra/menuchi-angular-frontend/blob/dev/assets/Created%20Menus%20Screenshot.jpg)
 
 ---
 
